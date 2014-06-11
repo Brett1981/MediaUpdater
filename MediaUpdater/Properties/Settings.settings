@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MediaUpdater.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="moviePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\MovieTest</Value>
+    </Setting>
+    <Setting Name="tvPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">T:\</Value>
+    </Setting>
+    <Setting Name="imdbAPI" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://www.omdbapi.com/?t=</Value>
+    </Setting>
+    <Setting Name="tvdbAPI" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://thetvdb.com/api/</Value>
+    </Setting>
+    <Setting Name="moviedbAPI" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://api.themoviedb.org/3/search/movie</Value>
+    </Setting>
+    <Setting Name="moviedbAPIkey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">4bccdaf9961a8734cc9bd742bff4b862</Value>
+    </Setting>
+    <Setting Name="localdbName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MediaServer</Value>
+    </Setting>
+    <Setting Name="localdbUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">webuser</Value>
+    </Setting>
+    <Setting Name="localdbPW" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">f1shs0up</Value>
+    </Setting>
+    <Setting Name="localdbHost" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">192.168.1.6</Value>
+    </Setting>
+    <Setting Name="runMinimized" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

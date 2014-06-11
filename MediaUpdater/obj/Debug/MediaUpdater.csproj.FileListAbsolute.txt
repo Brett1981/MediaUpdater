@@ -1,0 +1,18 @@
+C:\Users\Sam\Documents\SmartTrack\SmartTrack Repository\MediaUpdater\MediaUpdater\bin\Debug\MediaUpdater.exe
+C:\Users\Sam\Documents\SmartTrack\SmartTrack Repository\MediaUpdater\MediaUpdater\bin\Debug\MediaUpdater.pdb
+C:\Users\Sam\Documents\SmartTrack\SmartTrack Repository\MediaUpdater\MediaUpdater\obj\Debug\MediaUpdater.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\SmartTrack\SmartTrack Repository\MediaUpdater\MediaUpdater\obj\Debug\MediaUpdater.Form1.resources
+C:\Users\Sam\Documents\SmartTrack\SmartTrack Repository\MediaUpdater\MediaUpdater\obj\Debug\MediaUpdater.Properties.Resources.resources
+C:\Users\Sam\Documents\SmartTrack\SmartTrack Repository\MediaUpdater\MediaUpdater\obj\Debug\MediaUpdater.csproj.GenerateResource.Cache
+C:\Users\Sam\Documents\SmartTrack\SmartTrack Repository\MediaUpdater\MediaUpdater\obj\Debug\MediaUpdater.exe
+C:\Users\Sam\Documents\SmartTrack\SmartTrack Repository\MediaUpdater\MediaUpdater\obj\Debug\MediaUpdater.pdb
+C:\Users\Sam\Documents\SmartTrack\SmartTrack Repository\MediaUpdater\MediaUpdater\bin\Debug\MediaUpdater.exe.config
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\bin\Debug\MediaUpdater.exe.config
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\obj\Debug\MediaUpdater.exe
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\obj\Debug\MediaUpdater.pdb
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\obj\Debug\MediaUpdater.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\obj\Debug\MediaUpdater.Form1.resources
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\obj\Debug\MediaUpdater.Properties.Resources.resources
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\obj\Debug\MediaUpdater.csproj.GenerateResource.Cache
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\bin\Debug\MediaUpdater.exe
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\bin\Debug\MediaUpdater.pdb

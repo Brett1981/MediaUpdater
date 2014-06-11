@@ -1,0 +1,17 @@
+C:\Users\Sam\Documents\SmartTrack\SmartTrack Repository\MediaUpdater\MediaUpdater\bin\Release\MediaUpdater.exe.config
+C:\Users\Sam\Documents\SmartTrack\SmartTrack Repository\MediaUpdater\MediaUpdater\bin\Release\MediaUpdater.exe
+C:\Users\Sam\Documents\SmartTrack\SmartTrack Repository\MediaUpdater\MediaUpdater\bin\Release\MediaUpdater.pdb
+C:\Users\Sam\Documents\SmartTrack\SmartTrack Repository\MediaUpdater\MediaUpdater\obj\Release\MediaUpdater.Form1.resources
+C:\Users\Sam\Documents\SmartTrack\SmartTrack Repository\MediaUpdater\MediaUpdater\obj\Release\MediaUpdater.Properties.Resources.resources
+C:\Users\Sam\Documents\SmartTrack\SmartTrack Repository\MediaUpdater\MediaUpdater\obj\Release\MediaUpdater.csproj.GenerateResource.Cache
+C:\Users\Sam\Documents\SmartTrack\SmartTrack Repository\MediaUpdater\MediaUpdater\obj\Release\MediaUpdater.exe
+C:\Users\Sam\Documents\SmartTrack\SmartTrack Repository\MediaUpdater\MediaUpdater\obj\Release\MediaUpdater.pdb
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\bin\Release\MediaUpdater.exe.config
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\obj\Release\MediaUpdater.exe
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\obj\Release\MediaUpdater.pdb
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\bin\Release\MediaUpdater.exe
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\bin\Release\MediaUpdater.pdb
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\obj\Release\MediaUpdater.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\obj\Release\MediaUpdater.Form1.resources
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\obj\Release\MediaUpdater.Properties.Resources.resources
+C:\Users\Sam\Documents\Visual Studio 2012\Projects\MediaUpdater\MediaUpdater\obj\Release\MediaUpdater.csproj.GenerateResource.Cache
