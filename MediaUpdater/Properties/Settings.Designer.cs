@@ -25,7 +25,7 @@ namespace MediaUpdater.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("D:\\MovieTest")]
+        [global::System.Configuration.DefaultSettingValueAttribute("M:\\")]
         public string moviePath {
             get {
                 return ((string)(this["moviePath"]));
@@ -43,7 +43,7 @@ namespace MediaUpdater.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("http://www.omdbapi.com/?t=")]
+        [global::System.Configuration.DefaultSettingValueAttribute("http://www.omdbapi.com/")]
         public string imdbAPI {
             get {
                 return ((string)(this["imdbAPI"]));
@@ -61,7 +61,7 @@ namespace MediaUpdater.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("http://api.themoviedb.org/3/search/movie")]
+        [global::System.Configuration.DefaultSettingValueAttribute("http://api.themoviedb.org/3/")]
         public string moviedbAPI {
             get {
                 return ((string)(this["moviedbAPI"]));
@@ -119,6 +119,15 @@ namespace MediaUpdater.Properties {
         public bool runMinimized {
             get {
                 return ((bool)(this["runMinimized"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute(" x")]
+        public string watchedIdentifier {
+            get {
+                return ((string)(this["watchedIdentifier"]));
             }
         }
     }
